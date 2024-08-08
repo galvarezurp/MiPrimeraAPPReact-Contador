@@ -12,7 +12,7 @@ function App() {
     
     <main >
       <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" width={400} alt="" />
-      <h1>Contador de numeros Usando Typescript con React </h1>
+      <h1>Contador de numeros en React usando Typescript </h1>
       {/* Aqui */}
       {/*<BasicTypes/>*/}
       {/* <ObjectLiterals/> */}
